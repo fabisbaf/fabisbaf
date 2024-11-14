@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Meet, Fab!</title> 
+        <link rel="stylesheet" href="styles.css"
+    </head>
+    <body>
+        <header class="top-bar">
+            <nav>
+                <a href="#">About Me</a>
+                <a href="#">Project</a>
+                <a href="#">Hobbies</a>
+                <a href="#">More</a>
+            </nav>
+        </header>
+
+        <section class="intro">
+            <h1>Hello. <br> It's me, Fab! </h1>
+            <p>I'm currently an IT student at University of the East.</p>
+            <button>Clone more about me.</button>
+        </section>
+    </body>
+</html>  
